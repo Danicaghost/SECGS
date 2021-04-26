@@ -1,7 +1,7 @@
 # SECGS
 This is code for SECGS, please check.  
 
-First, run getDVS: ser2.py or others to get SENet featuers.  
+First, run getSENet: ser2.py or others to get SENet featuers.  
 Second,run C-CCA: NEW_clusterccaCsvd.m to get DVS.  
 Third, run estimated_probability: fabric_svd.py or mattreset_svd.py to get the estimated probability for DVS.  
 Fourth, run ERGS: mainnew.m to get final result.  
