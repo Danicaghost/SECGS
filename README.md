@@ -1,7 +1,7 @@
 # SECGS
 This is code for SECGS, please check.  
 
-![This is the SECGS model.](https://github.com/Danicaghost/SECGS/Model.jpg)
+![This is the SECGS model.](https://github.com/Danicaghost/SECGS/blob/main/Model.jpg)
 
 First, run getSENet: ser2.py or others to get SENet featuers.  
 Second,run C-CCA: NEW_clusterccaCsvd.m to get DVS.  
