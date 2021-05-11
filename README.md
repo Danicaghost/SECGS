@@ -15,8 +15,8 @@ This is the code for the SECGS model, please check it.
 
 2. Note:
 
-1) In the "ERGS" folder, "fabric9" (or "fabric10") represents the code that uses 9 DVSs (or 10 DVSs) and the corresponding estimated probabilities, to complete GS-based feature mid-fusion.
+(1) In the "ERGS" folder, "fabric9" (or "fabric10") represents the code that uses 9 DVSs (or 10 DVSs) and the corresponding estimated probabilities, to complete GS-based feature mid-fusion.
  
-2) Please refer to "fabric9" (or "fabric10") to complete other similar feature mid-fusions.
+(2) Please refer to "fabric9" (or "fabric10") to complete other similar feature mid-fusions.
 
-3) The demo video of our online material recognition system can be acquired in the "System" folder.
+(3) The demo video of our online material recognition system can be acquired in the "System" folder.
